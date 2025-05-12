@@ -357,31 +357,3 @@ const Dashboard = () => {
 };
 
 export default Dashboard;
-</lov-add-dependency>react-beautiful-dnd@latest</lov-add-dependency>
-<lov-write file_path="src/index.html">
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Taskify - Task Management App</title>
-    <meta name="description" content="Manage your tasks with ease using Taskify" />
-    <meta name="author" content="Taskify" />
-
-    <meta property="og:title" content="Taskify - Task Management App" />
-    <meta property="og:description" content="Manage your tasks with ease using Taskify" />
-    <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
-
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@taskify" />
-    <meta name="twitter:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
-  </head>
-
-  <body>
-    <div id="root"></div>
-    <!-- IMPORTANT: DO NOT REMOVE THIS SCRIPT TAG OR THIS VERY COMMENT! -->
-    <script src="https://cdn.gpteng.co/gptengineer.js" type="module"></script>
-    <script type="module" src="/src/main.tsx"></script>
-  </body>
-</html>
